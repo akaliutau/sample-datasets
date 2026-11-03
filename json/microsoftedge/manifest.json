@@ -1,0 +1,18 @@
+{
+  "family": "json",
+  "provenance": {
+    "license": "Applicable upstream license",
+    "source": "Dataset title and upstream URL"
+  },
+  "schema_version": 1,
+  "test": {
+    "bytes": 513148,
+    "sha256": "78ac520da1e0516f3a33d6ca13361fa0b364a3d791ac24b23e320288d3683402",
+    "url": "https://raw.githubusercontent.com/akaliutau/algomini-datasets/e1a704f956464a77dee1bdb228cc8fe8364d11b8/json/microsoftedge/test-512kb.json"
+  },
+  "train": {
+    "bytes": 1026294,
+    "sha256": "a8866ee433936e02af9115d6c09ecc1394042b2e3c6ec38cbb198e027b5cec22",
+    "url": "https://raw.githubusercontent.com/akaliutau/algomini-datasets/e1a704f956464a77dee1bdb228cc8fe8364d11b8/json/microsoftedge/train-1mb.json"
+  }
+}
