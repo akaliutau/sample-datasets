@@ -1,4 +1,4 @@
-# Algomini Datasets
+# Sample Datasets
 
 A curated collection of public-domain text and structured JSON datasets designed for benchmarking text and data compression algorithms, throughput tests, and evaluation metrics.
 
