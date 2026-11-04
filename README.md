@@ -20,7 +20,7 @@ Ideal for testing entropy coding, dictionary-based compression (e.g., LZ77/LZ4/z
 
 Contains structured, semi-structured, and minified JSON files varying from 512 KB to 12 MB. Perfect for evaluating how well a compression tool handles keys, nested objects, data types, and whitespace-heavy formatting vs. minification.
 
-* **`512KB.json` & `1MB.json**` – Formatted Microsoft Edge static dummy data featuring repetitive hierarchical records.
+* `512KB.json` & `1MB.json` – Formatted Microsoft Edge static dummy data featuring repetitive hierarchical records.
 
 ---
 
